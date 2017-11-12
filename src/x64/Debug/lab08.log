@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\pickl_000\documents\school\cpe471\lab08-master\src\main.cpp(81): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\pickl_000\documents\school\cpe471\lab08-master\src\main.cpp(88): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\pickl_000\documents\school\cpe471\lab08-master\src\main.cpp(95): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\pickl_000\documents\school\cpe471\lab08-master\src\main.cpp(102): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\pickl_000\documents\school\cpe471\lab08-master\src\main.cpp(142): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\pickl_000\documents\school\cpe471\lab08-master\src\main.cpp(322): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pickl_000\documents\school\cpe471\lab08-master\src\main.cpp(323): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  lab08.vcxproj -> C:\Users\pickl_000\Documents\School\CPE471\lab08-master\x64\Debug\lab08.exe
+  lab08.vcxproj -> C:\Users\pickl_000\Documents\School\CPE471\lab08-master\x64\Debug\lab08.pdb (Partial PDB)
